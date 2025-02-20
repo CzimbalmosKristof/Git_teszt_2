@@ -2,9 +2,9 @@ import React from 'react'
 
 function Menu() {
   return (
-    <div>Valami
+    <div>
 
-
+        <a href="https://vite.dev" target="_blank">
         hahó
     </div>
   )
