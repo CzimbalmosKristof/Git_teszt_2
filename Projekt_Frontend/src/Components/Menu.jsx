@@ -5,7 +5,6 @@ function Menu() {
     <div>
 
         <a href="https://vite.dev" target="_blank">
-        hahó
     </div>
   )
 }
